@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/MultiBankGroup/.github/blob/897ec1f462481eae6f7168410c4f63f445c0f915/profile/assets/banner.jpeg" alt="Multibank.io Banner" width="800"/>
+  <img src="https://github.com/MultiBank-T/.github/blob/d969b4bef0db2e8b6c9827ef08f637dc2375ee67/profile/assets/banner.jpeg" alt="Multibank.io Banner" width="800"/>
 </p>
 
 
